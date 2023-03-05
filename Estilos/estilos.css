@@ -1,0 +1,325 @@
+
+/*vista-telefono-index*/
+
+
+
+@media screen and (
+    max-width: 375px){
+    
+.blue{
+
+    background-color:#344D6C;
+    
+}
+
+
+
+.menu-index{border: none
+}
+
+.topnav {
+    overflow: hidden;
+    background-color:#344D6C;
+    position: relative;
+}
+.topnav #myLinks {
+    display: none;
+}
+
+.topnav a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a.icon {
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.topnav a:hover {
+    background-color: #233448;
+    color: white;
+}
+
+.fondo-laptop{display: none;}
+
+.fondo-movil{width: auto;}
+
+.body{background-color: #2e1864;}
+
+.bienvenida{
+    font-family: 'Rubik Mono One', sans-serif; 
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    margin: 20px;
+}
+
+.texto-index{font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: small;
+    color: white;
+    margin: 20px;}
+
+.lineup{font-family: 'Rubik Mono One', sans-serif; 
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    margin: 20px;}
+
+    .boton-lineup{font-family: 'Roboto', sans-serif;
+        background-color:#2e1864ed;
+        color: white;
+        border: none;
+    }
+
+    .link-lineup{color: white;}
+
+    .mapa{font-family: 'Rubik Mono One', sans-serif; 
+        font-size: 20px;
+        text-align: center;
+        color: white;
+    margin: 20px;}
+
+        .iframe{height: 375px; width: 375px;}
+
+    .footer{background-color:#344D6C;
+        height: 80px;
+        margin: auto;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    
+    
+    a:link { text-decoration: none; 
+    color: white;
+}
+    
+
+    .logoblanco{height: 37px;
+        display: block
+    ;}
+}
+
+/*vista-laptop-index*/
+
+@media screen and (min-width: 376px) and (max-width: 1440px) {
+    
+    .menu-index{border: none
+    }
+    
+    .topnav {
+        overflow: hidden;
+        background-color:#344D6C;
+        position: relative;
+    }
+    .topnav #myLinks {
+        display: none;
+    }
+    
+    .topnav a {
+        color: white;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+    
+    .topnav a.icon {
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    
+    .topnav a:hover {
+        background-color: #233448;
+        color: white;
+    }
+
+    .fondo-laptop{height: auto;}
+
+    .body{background-color: #2e1864;}
+
+
+    .bienvenida{
+        font-family: 'Rubik Mono One', sans-serif; 
+        font-size: 20px;
+        text-align: center;
+        color: white;
+        margin: 20px;
+    }
+    
+    .texto-index{font-family: 'Roboto', sans-serif;
+        text-align: center;
+        font-size: small;
+        color: white;
+        margin: 20px;}
+    
+    .lineup{font-family: 'Rubik Mono One', sans-serif; 
+        font-size: 20px;
+        text-align: center;
+        color: white;
+        margin: 20px;}
+    
+        .boton-lineup{font-family: 'Roboto', sans-serif;
+            background-color:#2e1864ed;
+            color: white;
+            border: none;
+        }
+    
+        .link-lineup{color: white;}
+    
+        .mapa{font-family: 'Rubik Mono One', sans-serif; 
+            font-size: 20px;
+            text-align: center;
+            color: white;
+        margin: 20px;}
+    
+            .iframe{height: 375px; width: 375px;
+            display: block;
+            margin-right: auto;
+        margin-left: auto;} 
+
+.fondo-movil{display: none;
+width: 375px;}
+
+        .bienvenida{
+    font-family: 'Rubik Mono One', sans-serif; 
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    margin: 20px;
+}
+
+.texto-index{font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: small;
+    color: white;
+    margin: 20px;
+    }
+
+.lineup{font-family: 'Rubik Mono One', sans-serif; 
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    margin: 20px;}
+
+    .boton-lineup{font-family: 'Roboto', sans-serif;
+        background-color:#2e1864ed;
+        color: white;
+        border: none;
+    }
+
+    .link-lineup{color: white;}
+
+    .mapa{font-family: 'Rubik Mono One', sans-serif; 
+        font-size: 20px;
+        text-align: center;
+        color: white;
+    margin: 20px;}
+
+        .iframe{height: 375px; width: 375px;
+        }
+
+    .footer{background-color:#344D6C;
+        height: 80px;
+        margin: auto;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    
+    
+    a:link { text-decoration: none; 
+    color: white;
+}
+    
+
+    .logoblanco{height: 37px;
+        display: block
+    ;}}
+    
+        .footer{background-color:#344D6C;
+            height: 80px;
+            margin: auto;
+            text-align: center;
+            text-decoration: none;
+        }
+    
+        
+        
+        a:link { text-decoration: none; 
+        color: white;
+    }
+        
+    
+        .logoblanco{height: 37px;
+            display: block
+        ;}
+        
+
+
+/*vista-mobile-sobre-nosotros*/
+@media screen and (
+    max-width: 375px){
+    
+
+
+        .fondo-sobre-mobile {
+            position: relative;
+            width: 375px;
+            height: 750px;
+            color: rgb(255, 255, 255);
+            background: url(/Imagenes-supernova/fondo\ mobile\ sobre\ nosotros.png) no-repeat;
+            background-size: 375px;}          
+
+            .titulo{font-size: 30px;
+            text-align: center;
+            }
+            
+            .texto1{
+            font-size: medium;
+            text-align: center; 
+            margin: 20px;}
+            
+            .texto-verde{
+            font-size: medium;
+            text-align: center;
+            margin: 20px;
+            color: #69F4BD;
+            }
+        }
+
+/*vista-escritorio-sobre-nosotros*/
+
+@media screen and (min-width: 376px) and (max-width: 1440px){
+    
+    .fondo-sobre-mobile {
+        position: relative;
+        width: 1440px;
+        height: 1440px;
+        color: rgb(255, 255, 255);
+        background: url(/Imagenes-supernova/fondo\ sobre\ nosotros.png) no-repeat;
+        background-size: 1440px;}          
+
+        .titulo{font-size: 30px;
+        text-align: center;
+        }
+        
+        .texto1{
+        font-size: medium;
+        text-align: center; 
+        margin: 20px;}
+        
+        .texto-verde{
+        font-size: medium;
+        text-align: center;
+        margin: 20px;
+        color: #69F4BD;
+        }
+    }
